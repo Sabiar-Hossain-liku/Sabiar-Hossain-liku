@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Sabiar Hossain Liku 👋
 
-<!--
-**Sabiar-Hossain-liku/Sabiar-Hossain-liku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student and Full Stack Developer based in Narsingdi, Bangladesh. I specialize in building high-performance backend systems, AI agents, and dynamic web applications from the ground up.
 
-Here are some ideas to get you started:
+###  What I'm currently working on
+* **Full Stack Architecture:** Designing scalable Ful stack applications and architecting robust backend APIs.
+* **Backend Performance:** Developing specialized, high-concurrency solutions and AI integrations using  Go and Python.
+* **Continuous Learning:** Exploring the intersection of Artificial Intelligence with biochemistry, molecular physics, and advanced mathematics (calculus & differential equations).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Frontend:** React, Nextjs, HTML/CSS, JavaScript,Typescpt
+* **Backend Frameworks:** Node.js, Express.js, Go, Rust
+* **Databases & Infra:** MongoDB,, PostgreSQL, Supabase, GitHub Actions
+* **AI & Data:** Python, AI Agent Development
+* **Workflow:** Git-hub Copilot, Agentic IDEs
+
+
+
+### 📫 Let's Connect
+* **LinkedIn:** https://www.linkedin.com/in/sabiarhossainliku/?skipRedirect=true
