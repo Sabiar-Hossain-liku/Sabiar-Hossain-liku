@@ -9,9 +9,9 @@ I'm a Computer Science student and Full Stack Developer based in Narsingdi, Bang
 
 ### 🛠️ Tech Stack & Tools
 * **Frontend:** React, Nextjs, HTML/CSS, JavaScript,Typescpt
-* **Backend Frameworks:** Node.js, Express.js, Go, Rust
+* **Backend Frameworks:** Node.js, Express.js, FastAPI
 * **Databases & Infra:** MongoDB,, PostgreSQL, Supabase, GitHub Actions
-* **AI & Data:** Python, AI Agent Development
+* **AI Dev:** Python, AI Agent Development
 * **Workflow:** Git-hub Copilot, Agentic IDEs
 
 
