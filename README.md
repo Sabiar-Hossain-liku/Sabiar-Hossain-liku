@@ -1,20 +1,35 @@
-# Hi there, I'm Sabiar Hossain Liku 👋
+## About Me  
+I am a Data Science and AI/ML Engineer . I specialize in building intelligent, data-driven applications by combining machine learning with modern web technologies. From designing models to deploying scalable systems, I enjoy working across the entire development lifecycle.
 
-I'm a Computer Science student and Full Stack Developer based in Narsingdi, Bangladesh. I specialize in building high-performance backend systems, AI agents, and dynamic web applications from the ground up.
+## What I Do  
+- Machine Learning and AI Development  
+- Data Analysis and Visualization  
+- Full-Stack Web Development  
+- Backend Systems and API Development  
+- AI Integration into Real-World Applications  
 
-###  What I'm currently working on
-* **Full Stack Architecture:** Designing scalable Ful stack applications and architecting robust backend APIs.
-* **Backend Performance:** Developing specialized, high-concurrency solutions and AI integrations using  Go and Python.
-* **Continuous Learning:** Exploring the intersection of Artificial Intelligence with biochemistry, molecular physics, and advanced mathematics (calculus & differential equations).
+## Tech Stack  
 
-### 🛠️ Tech Stack & Tools
-* **Frontend:** React, Nextjs, HTML/CSS, JavaScript,Typescpt
-* **Backend Frameworks:** Node.js, Express.js,
-* **Databases & Infra:** MongoDB,, PostgreSQL, Supabase, GitHub Actions
-* **AI Dev:** Python, AI Agent Development
-* **Workflow:** Git-hub Copilot, Agentic IDEs
+### Programming Languages  
+- Python, JavaScript, C++, Rust  
+
+### AI / Data Science  
+- NumPy, Pandas, Scikit-learn  
+- TensorFlow, PyTorch  
+- Data Visualization and Predictive Modeling  
 
 
+### Backend  
+- FastApi, Expressjs
+- REST APIs and system design  
 
-### 📫 Let's Connect
-* **LinkedIn:** https://www.linkedin.com/in/sabiarhossainliku/?skipRedirect=true
+### Tools and Technologies  
+- Git and GitHub  
+- Docker  
+- Jupyter Notebook  
+
+## Current Focus  
+- Building AI-powered full-stack applications  
+- Integrating machine learning models into production systems  
+- Improving problem-solving skills (DSA and algorithms)  
+- Exploring scalable backend architectures  
