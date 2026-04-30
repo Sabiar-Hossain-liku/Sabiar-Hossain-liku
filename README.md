@@ -4,8 +4,6 @@ I am a Data Science and AI/ML Engineer . I specialize in building intelligent, d
 ## What I Do  
 - Machine Learning and AI Development  
 - Data Analysis and Visualization  
-- Full-Stack Web Development  
-- Backend Systems and API Development  
 - AI Integration into Real-World Applications  
 
 ## Tech Stack  
