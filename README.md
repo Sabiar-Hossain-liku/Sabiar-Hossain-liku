@@ -1,5 +1,5 @@
 ## About Me  
-I am a Data Science and AI/ML Engineer . I specialize in building intelligent, data-driven applications by combining machine learning with modern web technologies. From designing models to deploying scalable systems, I enjoy working across the entire development lifecycle.
+I am a Fullstack  and AI/ML Engineer . I specialize in building intelligent, data-driven applications by combining machine learning with modern web technologies. From designing models to deploying scalable systems, I enjoy working across the entire development lifecycle.
 
 ## What I Do  
 - Machine Learning and AI Engineering  
