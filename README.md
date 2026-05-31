@@ -2,6 +2,7 @@
 I am a Fullstack  and AI/ML Engineer . I specialize in building intelligent, data-driven applications by combining machine learning with modern web technologies. From designing models to deploying scalable systems, I enjoy working across the entire development lifecycle.
 
 ## What I Do  
+- Fullstack Engineering
 - Machine Learning and AI Engineering  
 - Data Analysis and Visualization  
 - Agentic Ai Systems
@@ -16,7 +17,9 @@ I am a Fullstack  and AI/ML Engineer . I specialize in building intelligent, dat
 - TensorFlow, PyTorch  
 - Data Visualization and Predictive Modeling  
 
-
+### Frontend
+- React/NExtjs
+- Vue
 ### Backend  
 - FastApi, Expressjs
 - REST APIs and system design  
